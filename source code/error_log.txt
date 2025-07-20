@@ -1,0 +1,1 @@
+[19-Jun-2025 16:46:32 Europe/Berlin] vendor/autoload.php not found. Run 'composer require stripe/stripe-php' in project directory.
